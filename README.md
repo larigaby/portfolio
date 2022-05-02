@@ -1,22 +1,18 @@
-## Welcome to GitHub Pages
+## Larissa
+### sobre mim
 
-You can use the [editor on GitHub](https://github.com/larigaby/portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Oie,me chamo larissa tenho 15 anos e sou estudante.Gosto muito de ler,escutar musica e sou violinista.
+Acho muito interessante a area de marketing digital e pretendo aprender mais sobre isso.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Meus cursos
 
-### Markdown
+Aula de musica(violino),
+Curso basico de exel
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### meus hobies
+Ler,nadar,cozinhar,escutar musica,assistir filmes e series.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
 
 1. Numbered
 2. List
