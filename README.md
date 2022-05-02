@@ -13,9 +13,8 @@ Curso basico de exel
 ### meus hobies
 Ler,nadar,cozinhar,escutar musica,assistir filmes e series.
 
-
-1. Numbered
-2. List
+**Entre em contato**
+_lalagaby2027@gmail.com_
 
 **Bold** and _Italic_ and `Code` text
 
