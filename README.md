@@ -22,7 +22,7 @@ _lalagaby2027@gmail.com_
 [instagram](https://www.instagram.com/larissagabriela2027)
 ```
 
-![image](https://www.cndportugues.com/sites/default/files/2021-06/It%C3%A1lia%20%28Foto%20Mejores%20Lugares%20Tur%C3%ADsticos%20del%20Mundo%29.jpg)
+![image](
 
 ### Jekyll Themes
 
