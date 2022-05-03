@@ -22,7 +22,7 @@ _lalagaby2027@gmail.com_
 [instagram](https://www.instagram.com/larissagabriela2027)
 ```
 
-[image](https://cdn.pixabay.com/photo/2018/04/25/09/26/eiffel-tower-3349075_960_720.jpg) 
+![image](https://cdn.pixabay.com/photo/2018/04/25/09/26/eiffel-tower-3349075_960_720.jpg) 
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/larigaby/portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
