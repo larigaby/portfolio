@@ -12,7 +12,7 @@ Curso basico de exel
 
 
 ### meus hobies
-Ler,nadar,cozinhar,dançar,escutar musica,assistir filmes e series.
+Ler livros de romance,nadar,cozinhar,dançar,escutar musica,assistir filmes e series.
 
 **Entre em contato**
 _lalagaby2027@gmail.com_
