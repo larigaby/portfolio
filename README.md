@@ -22,7 +22,8 @@ _lalagaby2027@gmail.com_
 [instagram](https://www.instagram.com/larissagabriela2027)
 ```
 
-![image](https://www.guiadasemana.com.br/contentFiles/image/2016/09/FEA/principal/52593_w840h0_1475081911shutterstock-397769281.jpg)
+![image](https://www.ultraparkgru.com.br/dicas-de-viagem/wp-content/uploads/2019/02/roma-italia.jpg)
+
 
 ### Jekyll Themes
 
