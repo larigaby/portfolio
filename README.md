@@ -3,12 +3,12 @@
 ### `sobre mim`
 
 Oie,me chamo larissa tenho 15 anos e sou estudante.Gosto muito de ler,escutar musica e sou violinista.
-Acho muito interessante a area de marketing digital e pretendo aprender mais sobre isso.
+Acho muito interessante a area de marketing digital e pretendo aprender mais sobre isso.Ainda nao sei com o que eu quero trbalhar no futuro ,mas marketing com certeza esta nas minha lista
 
 ### `Meus cursos`
 
 Aula de musica(violino),
-Curso basico de exel
+Curso basico de excel
 
 
 ### meus hobies
