@@ -22,8 +22,7 @@ _lalagaby2027@gmail.com_
 [instagram](https://www.instagram.com/larissagabriela2027)
 ```
 
-![image](https://www.ultraparkgru.com.br/dicas-de-viagem/wp-content/uploads/2019/02/roma-italia.jpg)
-
+[image](https://images5.alphacoders.com/110/1102044.jpg)
 
 ### Jekyll Themes
 
