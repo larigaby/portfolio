@@ -17,12 +17,12 @@ Ler livros de romance,nadar,cozinhar,jogos de dança(just dance),escutar musica,
 **Entre em contato**
 _lalagaby2027@gmail.com_
 
-### Conheça meu perfil no instagram:
+### Conheça meu perfil do instagram:
 
 [instagram](https://www.instagram.com/larissagabriela2027)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+![image](https://www.cndportugues.com/sites/default/files/2021-06/It%C3%A1lia%20%28Foto%20Mejores%20Lugares%20Tur%C3%ADsticos%20del%20Mundo%29.jpg)
 
 ### Jekyll Themes
 
