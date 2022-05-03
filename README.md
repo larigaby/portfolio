@@ -12,7 +12,7 @@ Curso basico de excel
 
 
 ### meus hobies
-Ler livros de romance,nadar,cozinhar,dançar,escutar musica,assistir filmes e series.
+Ler livros de romance,nadar,cozinhar,jogos de dança(just dance),escutar musica,assistir filmes e series.
 
 **Entre em contato**
 _lalagaby2027@gmail.com_
